@@ -9,7 +9,7 @@ public class Board {
     public static final String RESET = "\u001B[0m";
     public static final String GREEN = "\u001B[32m"; // user-entered
     public static final String BLUE  = "\u001B[34m"; // given clues
-    public static final String RED = "\u001B[31m"; // wrong xx
+    public static final String RED = "\u001B[31m"; // wrong xxx
     public Board() {
         board = new int[9][9];
         solution=new int[9][9];
