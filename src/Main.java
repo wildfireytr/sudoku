@@ -13,4 +13,3 @@ public class Main{
         System.out.println("Goodbye!");
     }
 }
-// ^15 lines of code in main. oop core seperationmaxxing
